@@ -1,9 +1,9 @@
 class Attar < Formula
   desc "Attar developer toolkit with CLI, compiler, and SDK"
   homepage "https://github.com/occam-tech/attar"
-  url "https://github.com/occam-tech/attar-releases/releases/download/v0.1.0-dev.7409.ge99759d41293/attar-0.1.0-dev.7409.ge99759d41293-aarch64-apple-darwin.tar.gz"
-  sha256 "8a6549451965a439dd023a38bc2f6914e7ba1748782c5186ef098f12718c3397"
-  version "0.1.0-dev.7409.ge99759d41293"
+  url "https://github.com/occam-tech/attar-releases/releases/download/v0.1.0-dev.7620.g57143d8614b3/attar-0.1.0-dev.7620.g57143d8614b3-aarch64-apple-darwin.tar.gz"
+  sha256 "dc6b3c5db94d1a8684c4da14b2079c80dcf356b5bb873c63dcce7b9b468979b5"
+  version "0.1.0-dev.7620.g57143d8614b3"
 
   depends_on arch: :arm64
   depends_on macos: :sequoia
